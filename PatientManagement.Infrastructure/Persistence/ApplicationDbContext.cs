@@ -9,4 +9,6 @@ public class ApplicationDbContext : DbContext
         : base(options) { }
 
     public DbSet<Patient> Patients { get; set; }
+
+    public DbSet<Consultation> Consultations { get; set; }
 }

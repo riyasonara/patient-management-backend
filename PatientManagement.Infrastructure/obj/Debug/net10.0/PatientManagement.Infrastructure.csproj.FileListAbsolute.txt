@@ -32,3 +32,4 @@ C:\Users\riya.sonara\Downloads\PatientManagementSystem\PatientManagement.Infrast
 C:\Users\riya.sonara\Downloads\PatientManagementSystem\PatientManagement.Infrastructure\obj\Debug\net10.0\PatientManagement.Infrastructure.pdb
 C:\Users\riya.sonara\Downloads\PatientManagementSystem\PatientManagement.Infrastructure\obj\Debug\net10.0\PatientManagement.Infrastructure.genruntimeconfig.cache
 C:\Users\riya.sonara\Downloads\PatientManagementSystem\PatientManagement.Infrastructure\obj\Debug\net10.0\ref\PatientManagement.Infrastructure.dll
+C:\Users\riya.sonara\Downloads\PatientManagementSystem\PatientManagement.Infrastructure\obj\Debug\net10.0\PatientManagement.Infrastructure.sourcelink.json

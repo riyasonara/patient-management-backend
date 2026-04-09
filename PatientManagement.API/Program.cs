@@ -17,6 +17,7 @@ public class Program
 
         builder.Services.AddScoped<PatientRepository>();
         builder.Services.AddScoped<AzureEventPublisher>();
+        builder.Services.AddScoped<ConsultationRepository>();
 
         builder.Services.AddCors(options =>
         {
