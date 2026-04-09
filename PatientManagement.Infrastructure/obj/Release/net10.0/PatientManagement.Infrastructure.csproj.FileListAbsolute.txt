@@ -1,0 +1,17 @@
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Infrastructure.deps.json
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Infrastructure.runtimeconfig.json
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Infrastructure.dll
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Infrastructure.pdb
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Domain.dll
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\bin\Release\net10.0\PatientManagement.Domain.pdb
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.AssemblyInfo.cs
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientM.F5BBBADA.Up2Date
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.dll
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\refint\PatientManagement.Infrastructure.dll
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.pdb
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\PatientManagement.Infrastructure.genruntimeconfig.cache
+E:\dotnet\UpworkProject\PatientManagement.Infrastructure\obj\Release\net10.0\ref\PatientManagement.Infrastructure.dll

@@ -1,0 +1,11 @@
+E:\dotnet\UpworkProject\PatientManagement.Application\bin\Release\net10.0\PatientManagement.Application.deps.json
+E:\dotnet\UpworkProject\PatientManagement.Application\bin\Release\net10.0\PatientManagement.Application.dll
+E:\dotnet\UpworkProject\PatientManagement.Application\bin\Release\net10.0\PatientManagement.Application.pdb
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.AssemblyInfoInputs.cache
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.AssemblyInfo.cs
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.csproj.CoreCompileInputs.cache
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.dll
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\refint\PatientManagement.Application.dll
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\PatientManagement.Application.pdb
+E:\dotnet\UpworkProject\PatientManagement.Application\obj\Release\net10.0\ref\PatientManagement.Application.dll
